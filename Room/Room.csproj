@@ -236,6 +236,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\3DTOYS\rotatecamera.cs" />
+    <Compile Include="Assets\Script\Room.cs" />
+    <Compile Include="Assets\Scripts\EnemyDestroyer.cs" />
+    <Compile Include="Assets\Scripts\enemyShipMove.cs" />
+    <Compile Include="Assets\Scripts\ShipSpawner.cs" />
+    <Compile Include="Assets\Scripts\trackMove.cs" />
+    <Compile Include="Assets\Scripts\UIMenager.cs" />
+    <Compile Include="Assets\Scripts\xwingControler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\3DTOYS\readme.txt" />
