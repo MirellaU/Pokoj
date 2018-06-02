@@ -14,6 +14,7 @@
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
     <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectGenerator>VSTU</UnityProjectGenerator>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2017.2.0f3</UnityVersion>
@@ -223,6 +224,7 @@
     <Compile Include="Assets\destroy.cs" />
     <Compile Include="Assets\MyTimer.cs" />
     <Compile Include="Assets\Next.cs" />
+    <Compile Include="Assets\NextToSecond.cs" />
     <Compile Include="Assets\Seamless Texture\Demo Scene\rotateObject.cs" />
     <Compile Include="Assets\Seamless Texture\Demo Scene\severalPositions.cs" />
     <Compile Include="Assets\Seamless Texture\Demo Scene\TextureChanger.cs" />
